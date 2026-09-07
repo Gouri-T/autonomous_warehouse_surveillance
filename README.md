@@ -3,6 +3,7 @@
 A ROS-based autonomous warehouse surveillance robot designed for autonomous navigation, environment mapping, obstacle avoidance, remote monitoring, and real-time data logging.
 
 The project consists of both the complete software stack (ROS workspaces) and the hardware design files (mechanical CAD, electrical schematics, BOM, and demonstration videos).
+<p align="center"><img src="https://github.com/Gouri-T/autonomous_warehouse_surveillance/blob/main/autonomous_surveilance_bot.png" alt="bot image" width="410" height="298"/></p>
 
 ---
 
